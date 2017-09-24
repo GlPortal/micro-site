@@ -3,7 +3,7 @@ title: Home
 ---
 
 # GlPortal
-## A free physic and teleportation based puzzle game
+## A free 3d puzzle platformer with teleportation and physics
 
 !!! You can help to **make GlPortal better**. Just **contact us** or join the development on **github**.
 ### About GlPortal
