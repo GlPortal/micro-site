@@ -1,0 +1,24 @@
+1506874120
+a:2:{s:7:"content";s:874:"<h1>GlPortal</h1>
+<h2>A free physic and teleportation based puzzle game</h2>
+<div class="notices blue">
+<p>You can help to <strong>make GlPortal better</strong>. Just <strong>contact us</strong> or join the development on <strong>github</strong>.</p>
+</div>
+<h3>Find out all about GlPortal</h3>
+<p>GlPortal is a free 3d puzzle platformer with teleportation and physics. The engine is available for free as well.</p>
+<h3>Run GlPortal</h3>
+<div class="notices yellow">
+<p>NOTE: You can obtain a build from the Downloads section</p>
+</div>
+<ul>
+<li>download the game for your operating system</li>
+<li>In Linux Run the game with <code>./glportal</code> or create a shortcut</li>
+<li>In Windows double click glportal.exe</li>
+</ul>
+<h3>Controls</h3>
+<ul>
+<li>w, s, d, a – move arround</li>
+<li>mouse – look arround</li>
+<li>q – quit game</li>
+<li>space – jump</li>
+</ul>";s:12:"content_meta";N;}
