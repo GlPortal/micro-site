@@ -9,7 +9,6 @@ title: Home
 ### About GlPortal
 GlPortal is a free 3d puzzle platformer with teleportation and physics. The engine is available for free as well.
 ### Run GlPortal
-! NOTE: You can obtain a build from the Downloads section
 - download the game for your operating system
 - In Linux Run the game with `./glportal` or create a shortcut
 - In Windows double click glportal.exe
