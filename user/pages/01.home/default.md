@@ -11,6 +11,15 @@ GlPortal is a free 3d puzzle platformer with teleportation and physics. The engi
 
 <img src="http://glportal.de/glportal.gif">
 
+Connect with us 
+<a target="_blank" href="http://www.facebook.com/glportal" class="fa fa-facebook fa-2x">
+</a>
+<a target="_blank" href="https://github.com/GlPortal/glPortal" class="fa fa-github fa-2x">
+</a>
+<a target="_blank" href="https://twitter.com/glportal_game" class="fa fa-twitter fa-2x">
+</a>
+<a target="_blank" href="https://www.reddit.com/r/RadixEngine/" class="fa fa-reddit fa-2x">
+</a>
 ### Run GlPortal
 - download the game for your operating system
 - In Linux Run the game with `./glportal` or create a shortcut
