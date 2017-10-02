@@ -5,7 +5,7 @@ title: Home
 # GlPortal
 ## A free 3d puzzle platformer with teleportation and physics
 
-!!! You can help to **make GlPortal better**. Just **contact us** or join the development on **github**.
+!!! You can help to **make GlPortal better**. Just **[contact us](/community)** or join the development on **[github](https://github.com/GlPortal/glPortal)**.
 ### About GlPortal
 GlPortal is a free 3d puzzle platformer with teleportation and physics. The engine is available for free as well.
 
