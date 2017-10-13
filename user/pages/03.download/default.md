@@ -7,7 +7,7 @@ title: Download
 
 ## Game
 <ul id="game-download-link"><li>
-<a href="https://glportal.itch.io/glportal">Download on itch.io</a>
+<a target="_blank" href="https://glportal.itch.io/glportal">Download on itch.io</a>
 </li></ul>
 
 <iframe id="game-download-iframe" style="display: none;" frameborder="0" width="552" height="167">
