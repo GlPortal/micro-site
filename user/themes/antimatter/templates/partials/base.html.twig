@@ -33,6 +33,7 @@
         {% do assets.addJs('theme://js/modernizr.custom.71422.js', 100) %}
         {% do assets.addJs('theme://js/antimatter.js') %}
         {% do assets.addJs('theme://js/slidebars.min.js') %}
+        {% do assets.addJs('theme://js/blazy.min.js') %}
     {% endblock %}
     {{ assets.js() }}
     <!-- Piwik -->
@@ -104,6 +105,7 @@
                 hideControlClasses: true,
                 scrollLock: true
               });
+              var bLazy = new Blazy();
             });
         });
         </script>
