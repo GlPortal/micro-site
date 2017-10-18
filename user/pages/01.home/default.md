@@ -21,10 +21,6 @@ Connect with us
 <a target="_blank" href="https://www.reddit.com/r/RadixEngine/" class="fa fa-reddit fa-2x">
 </a>
 
-### Contribute
-Contribution is easy check out our <a target="_blank" href="http://contribute.glportal.de">
-detailed contribution guide</a>
-
 ### Run GlPortal
 - download the game for your operating system
 - In Linux Run the game with `./glportal` or create a shortcut

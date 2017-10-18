@@ -3,4 +3,6 @@ author:
   name: GlPortal Team
 metadata:
     description: 'A free 3d puzzle platformer with teleportation and physics'
-
+menu:
+  - text: Contribute
+    url: http://contribute.glportal.de/en/latest/
