@@ -23,6 +23,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 }, 1000);
 });
 </script>
+
 ## Map Editor
 ! NOTE: The same build for Linux <i class="fa fa-linux"></i>, Windows <i class="fa fa-windows"></i> and Mac <i class="fa fa-apple"></i>
-- [bintray](https://bintray.com/glportal/glportal_releases)
+- [Download](https://bintray.com/glportal/generic/glportal-editor/_latestVersion)
