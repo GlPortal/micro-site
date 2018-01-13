@@ -26,4 +26,4 @@ document.addEventListener("DOMContentLoaded", function(event) {
 
 ## Map Editor
 ! NOTE: The same build for Linux <i class="fa fa-linux"></i>, Windows <i class="fa fa-windows"></i> and Mac <i class="fa fa-apple"></i>
-- [Download](https://bintray.com/glportal/generic/glportal-editor/_latestVersion)
+- [Download map editor](https://github.com/GlPortal/map-editor/releases/)
